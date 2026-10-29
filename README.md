@@ -1,5 +1,6 @@
 # IntelliTerminal — Intelligent Terminal Assistant
 
+**Team:** Ankush Yadav, Kalpana Gantyala 
 **Subject:** Linux, Git & Developer Workflow | **Language:** Python 3.10+ | **Platform:** Windows 10/11
 
 IntelliTerminal is an independent educational project inspired by the concepts in the Shelldon README shared for this assignment. It suggests commands from plain-English/Hinglish requests, explains known commands, combines related developer checks, and includes a safety-first allowlist.
